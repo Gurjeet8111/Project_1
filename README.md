@@ -1,2 +1,1 @@
-# Project_1
-Analysis of Data of Google Play Store and Apple Store
+# Data Analysis of google play store and apple store
